@@ -37,7 +37,7 @@ To run this project locally, you'll need Node.js and npm (or yarn) installed on 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/itisameerkhan/react-full-recipe-app.git
+   git clone https://github.com/ravichandra05/recipe_app.git
 
 2. Navigate to the project directory:
    ```
